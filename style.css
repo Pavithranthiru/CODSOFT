@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+nav{
+    color:white;
+    padding:15px;
+}
+
+ul,h1,li{
+    display:inline;
+    padding: 15px;
+}   
+
+ul{
+    margin-left:49%;
+    cursor: pointer;
+    color:white;
+    font-size: 25px;
+}
+
+li:hover{
+    color:grey;
+}
+
+.one{
+    color:white;
+    font-size: 63px;
+    margin-left: 37%;
+    padding-top: 130px;
+}
+
+.two{
+    color:white;
+    font-size:63px;
+    margin-left: 35%;
+    
+}
+
+.three{
+    color:white;
+    font-size:28px;
+    margin-left: 37%;
+}
+
+button{
+    background-color:orange;
+    color:white;
+    margin-left:43%;
+    margin-top:10px;
+    padding:10px;
+    font-size: 30px;
+    border-style:solid;
+    border-radius:15px;
+}
+
